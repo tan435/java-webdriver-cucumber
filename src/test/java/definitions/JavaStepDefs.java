@@ -115,6 +115,7 @@ public class JavaStepDefs {
             System.out.print(fruit + " ");
         }
         System.out.println();
+        System.out.println();
    /*     @Given("I open login page")
         public void iOpenLoginPage () {
             System.out.println("Opening login");
